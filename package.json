@@ -1,0 +1,16 @@
+{
+  "name": "project-4moduln-2",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+    
+  },
+  "keywords": [],
+  "author": "Anzor15",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
